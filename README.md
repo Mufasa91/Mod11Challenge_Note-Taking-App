@@ -33,7 +33,7 @@ Check out the deployed app here: [Note Taker](insert deployed app here!)
 
 ### Screenshots
 
-![screenshot](./public/assets/images/Screen%20Shot%201.png)
+![Screen Shot 1](https://github.com/Mufasa91/Mod11Challenge_Note-Taking-App/assets/83317292/70434e35-8a60-466b-9d41-6b5019171ab7)
 ![screenshot](./public/assets/images/Screen%20Shot%202.png)
 
 ### Contact
