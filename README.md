@@ -33,8 +33,8 @@ Check out the deployed app here: [Note Taker](insert deployed app here!)
 
 ### Screenshots
 
-![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_01.jpg)
-![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_02.jpg)
+![screenshot](./public/assets/images/Screen%20Shot%201.png)
+![screenshot](./public/assets/images/Screen%20Shot%202.png)
 
 ### Contact
 
